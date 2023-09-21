@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CompanyEmployees.Presentation.ModelBinders
+namespace CompanyEmployees.Presentation
 {
-    internal class AssemblyReference
+    public static class AssemblyReference
     {
     }
 }

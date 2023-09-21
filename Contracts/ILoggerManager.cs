@@ -14,6 +14,5 @@ namespace Contracts
         void LogFatal(string message);
         void LogDebug(string message);
 
-
     }
 }

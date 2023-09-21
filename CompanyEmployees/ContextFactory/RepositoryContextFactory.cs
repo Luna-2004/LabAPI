@@ -14,7 +14,7 @@ namespace LabAPI.ContextFactory
             .Build();
             var builder = new DbContextOptionsBuilder<RepositoryContext>()
             .UseSqlServer(configuration.GetConnectionString("sqlConnection"),
-            b => b.MigrationsAssembly("LabAPI"));
+            b => b.MigrationsAssembly("APIRestLab01"));
             return new RepositoryContext(builder.Options);
         }
     }

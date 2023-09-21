@@ -1,21 +1,22 @@
-﻿using Contracts;
+﻿using APIRestLab01;
+using Contracts;
 using LoggerService;
-//using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using Repository;
 using Service;
 using Service.Contracts;
 
 
-namespace APIRestLab01.Extensions
+namespace LabAPI.Extensions
 {
     public static class ServiceExtensions
     {
         public static void ConfigureCors(this IServiceCollection services) => services.AddCors(options =>
-        { 
+        {
             options.AddPolicy("CorsPolicy", builder => builder
             .AllowAnyOrigin()
             .AllowAnyMethod()
-            .AllowAnyHeader()); 
+            .AllowAnyHeader());
         });
 
         public static void ConfigureIISIntegration(this IServiceCollection services) => services
@@ -24,7 +25,7 @@ namespace APIRestLab01.Extensions
         public static void ConfigureLoggerService(this IServiceCollection services) =>
             services.AddSingleton<ILoggerManager, LoggerManager>();
 
-        /*public static void ConfigureRepositoryManager(this IServiceCollection services) =>
+        public static void ConfigureRepositoryManager(this IServiceCollection services) =>
         services.AddScoped<IRepositoryManager, RepositoryManager>();
 
         public static void ConfigureServiceManager(this IServiceCollection services) =>
@@ -32,9 +33,10 @@ namespace APIRestLab01.Extensions
 
         public static void ConfigureSqlContext(this IServiceCollection services, IConfiguration configuration) =>
         services.AddDbContext<RepositoryContext>(opts =>
-        opts.UseSqlServer(configuration.GetConnectionString("sqlConnection")));*/
+        opts.UseSqlServer(configuration.GetConnectionString("sqlConnection")));
 
         public static IMvcBuilder AddCustomCSVFormatter(this IMvcBuilder builder) =>
         builder.AddMvcOptions(config => config.OutputFormatters.Add(new CsvOutputFormatter()));
+
     }
 }

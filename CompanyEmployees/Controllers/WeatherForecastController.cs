@@ -1,6 +1,5 @@
 using CompanyEmployees;
 using Contracts;
-using LoggerService;
 using Microsoft.AspNetCore.Mvc;
 
 namespace APIRestLab01.Controllers
@@ -11,17 +10,20 @@ namespace APIRestLab01.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-  };
+        "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+        };
 
-        //private readonly ILogger<WeatherForecastController> _logger;
-        private ILoggerManager _logger;
+        //private readonly ILogger<WeatherForecastController> _logger;
 
-        //public WeatherForecastController(ILogger<WeatherForecastController> logger)
-        //{
-        //    _logger = logger;
-        //}
-        public WeatherForecastController(ILoggerManager logger)
+
+
+        //public WeatherForecastController(ILogger<WeatherForecastController> logger)
+        //{
+        //    _logger = logger;
+        //}
+
+        private ILoggerManager _logger;
+        public WeatherForecastController(ILoggerManager logger)
         {
             this._logger = logger;
         }
@@ -29,10 +31,11 @@ namespace APIRestLab01.Controllers
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {
-            _logger.LogInfo("hello is info message from our  values controller.");
-            _logger.LogDebug("hello is info message from our  values controller.");
-            _logger.LogWarn("hello is info message from our  values controller.");
-            _logger.LogError("hello is info message from our  values controller.");
+            _logger.LogInfo("Here is info message from our values controller.");
+            _logger.LogDebug("Here is debug message from our values controller.");
+            _logger.LogWarn("Here is warn message from our values controller.");
+            _logger.LogError("Here is an error message from our values controller.");
+
 
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {

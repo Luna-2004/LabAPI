@@ -2,7 +2,9 @@ C:\Users\Usuario\Git SENA\LabAPI\LoggerService\bin\Debug\net7.0\LoggerService.de
 C:\Users\Usuario\Git SENA\LabAPI\LoggerService\bin\Debug\net7.0\LoggerService.dll
 C:\Users\Usuario\Git SENA\LabAPI\LoggerService\bin\Debug\net7.0\LoggerService.pdb
 C:\Users\Usuario\Git SENA\LabAPI\LoggerService\bin\Debug\net7.0\Contracts.dll
+C:\Users\Usuario\Git SENA\LabAPI\LoggerService\bin\Debug\net7.0\Entities.dll
 C:\Users\Usuario\Git SENA\LabAPI\LoggerService\bin\Debug\net7.0\Contracts.pdb
+C:\Users\Usuario\Git SENA\LabAPI\LoggerService\bin\Debug\net7.0\Entities.pdb
 C:\Users\Usuario\Git SENA\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.csproj.AssemblyReference.cache
 C:\Users\Usuario\Git SENA\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Usuario\Git SENA\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfoInputs.cache
@@ -13,5 +15,3 @@ C:\Users\Usuario\Git SENA\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.dl
 C:\Users\Usuario\Git SENA\LabAPI\LoggerService\obj\Debug\net7.0\refint\LoggerService.dll
 C:\Users\Usuario\Git SENA\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.pdb
 C:\Users\Usuario\Git SENA\LabAPI\LoggerService\obj\Debug\net7.0\ref\LoggerService.dll
-C:\Users\Usuario\Git SENA\LabAPI\LoggerService\bin\Debug\net7.0\Entities.dll
-C:\Users\Usuario\Git SENA\LabAPI\LoggerService\bin\Debug\net7.0\Entities.pdb

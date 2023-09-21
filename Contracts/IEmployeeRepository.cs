@@ -17,3 +17,4 @@ namespace Contracts
         void DeleteEmployee(Employee employee);
     }
 }
+

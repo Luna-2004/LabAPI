@@ -1,15 +1,15 @@
-﻿using Contracts;
+﻿using Microsoft.EntityFrameworkCore;
+using Contracts;
 using Entities.Models;
-using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Repository
 {
+
     public class EmployeeRepository : RepositoryBase<Employee>, IEmployeeRepository
     {
         public EmployeeRepository(RepositoryContext repositoryContext)

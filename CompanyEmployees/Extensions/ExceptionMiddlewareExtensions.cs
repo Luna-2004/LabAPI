@@ -4,6 +4,7 @@ using Entities.Exceptions;
 using Microsoft.AspNetCore.Diagnostics;
 using System.Net;
 
+
 namespace APIRestLab01.Extensions
 {
     public static class ExceptionMiddlewareExtensions

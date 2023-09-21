@@ -1,4 +1,5 @@
-﻿using Contracts;
+﻿using Microsoft.EntityFrameworkCore;
+using Contracts;
 using Entities.Models;
 using Microsoft.EntityFrameworkCore;
 using System;

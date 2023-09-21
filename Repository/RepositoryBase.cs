@@ -1,5 +1,5 @@
-﻿using Contracts;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
+using Contracts;
 using System;
 using System.Collections.Generic;
 using System.Linq;
