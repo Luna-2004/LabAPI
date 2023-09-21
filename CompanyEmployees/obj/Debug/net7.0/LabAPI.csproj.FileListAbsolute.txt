@@ -31,3 +31,10 @@ C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\obj\Debug\net7.0\refint\LabAPI
 C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.pdb
 C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.genruntimeconfig.cache
 C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\obj\Debug\net7.0\ref\LabAPI.dll
+C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\web.config
+C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\NLog.dll
+C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\NLog.Extensions.Logging.dll
+C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Contracts.dll
+C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\LoggerService.dll
+C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\LoggerService.pdb
+C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Contracts.pdb
