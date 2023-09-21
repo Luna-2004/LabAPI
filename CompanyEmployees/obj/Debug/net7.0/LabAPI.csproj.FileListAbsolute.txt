@@ -49,3 +49,5 @@ C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Service.Contr
 C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Service.pdb
 C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Entities.pdb
 C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Shared.pdb
+C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
