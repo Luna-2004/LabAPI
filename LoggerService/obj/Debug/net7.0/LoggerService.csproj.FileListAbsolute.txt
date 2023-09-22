@@ -1,17 +1,34 @@
-C:\Users\Usuario\Git SENA\LabAPI\LoggerService\bin\Debug\net7.0\LoggerService.deps.json
-C:\Users\Usuario\Git SENA\LabAPI\LoggerService\bin\Debug\net7.0\LoggerService.dll
-C:\Users\Usuario\Git SENA\LabAPI\LoggerService\bin\Debug\net7.0\LoggerService.pdb
-C:\Users\Usuario\Git SENA\LabAPI\LoggerService\bin\Debug\net7.0\Contracts.dll
-C:\Users\Usuario\Git SENA\LabAPI\LoggerService\bin\Debug\net7.0\Entities.dll
-C:\Users\Usuario\Git SENA\LabAPI\LoggerService\bin\Debug\net7.0\Contracts.pdb
-C:\Users\Usuario\Git SENA\LabAPI\LoggerService\bin\Debug\net7.0\Entities.pdb
-C:\Users\Usuario\Git SENA\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.csproj.AssemblyReference.cache
-C:\Users\Usuario\Git SENA\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Usuario\Git SENA\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfoInputs.cache
-C:\Users\Usuario\Git SENA\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfo.cs
-C:\Users\Usuario\Git SENA\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Git SENA\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CopyComplete
-C:\Users\Usuario\Git SENA\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.dll
-C:\Users\Usuario\Git SENA\LabAPI\LoggerService\obj\Debug\net7.0\refint\LoggerService.dll
-C:\Users\Usuario\Git SENA\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.pdb
-C:\Users\Usuario\Git SENA\LabAPI\LoggerService\obj\Debug\net7.0\ref\LoggerService.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\LoggerService\bin\Debug\net7.0\LoggerService.deps.json
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\LoggerService\bin\Debug\net7.0\LoggerService.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\LoggerService\bin\Debug\net7.0\LoggerService.pdb
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\LoggerService\bin\Debug\net7.0\Contracts.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\LoggerService\bin\Debug\net7.0\Entities.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\LoggerService\bin\Debug\net7.0\Contracts.pdb
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\LoggerService\bin\Debug\net7.0\Entities.pdb
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.csproj.AssemblyReference.cache
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfo.cs
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CopyComplete
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\LoggerService\obj\Debug\net7.0\refint\LoggerService.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.pdb
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\LoggerService\obj\Debug\net7.0\ref\LoggerService.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\LoggerService\bin\Debug\net7.0\LoggerService.deps.json
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\LoggerService\bin\Debug\net7.0\LoggerService.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\LoggerService\bin\Debug\net7.0\LoggerService.pdb
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\LoggerService\bin\Debug\net7.0\Contracts.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\LoggerService\bin\Debug\net7.0\Entities.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\LoggerService\bin\Debug\net7.0\Contracts.pdb
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\LoggerService\bin\Debug\net7.0\Entities.pdb
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CopyComplete
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\LoggerService\obj\Debug\net7.0\refint\LoggerService.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\LoggerService\obj\Debug\net7.0\LoggerService.pdb
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\LoggerService\obj\Debug\net7.0\ref\LoggerService.dll

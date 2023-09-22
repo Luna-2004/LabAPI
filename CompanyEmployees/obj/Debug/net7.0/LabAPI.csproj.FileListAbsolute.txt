@@ -1,97 +1,200 @@
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.csproj.AssemblyReference.cache
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.AssemblyInfoInputs.cache
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.AssemblyInfo.cs
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\nlog.config
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\appsettings.json
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\LabAPI.exe
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\LabAPI.deps.json
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\LabAPI.runtimeconfig.json
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\LabAPI.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\LabAPI.pdb
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\AutoMapper.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Azure.Core.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Azure.Identity.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Newtonsoft.Json.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\NLog.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\NLog.Extensions.Logging.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.Drawing.Common.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.Memory.Data.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.Runtime.Caching.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.Security.Permissions.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.Windows.Extensions.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\CompanyEmployees.Presentation.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Contracts.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Entities.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\LoggerService.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Repository.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Service.Contracts.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Service.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Shared.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\CompanyEmployees.Presentation.pdb
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\LoggerService.pdb
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Repository.pdb
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Service.Contracts.pdb
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Service.pdb
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Contracts.pdb
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Entities.pdb
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\bin\Debug\net7.0\Shared.pdb
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\obj\Debug\net7.0\staticwebassets\msbuild.LabAPI.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\obj\Debug\net7.0\staticwebassets\msbuild.build.LabAPI.props
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LabAPI.props
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LabAPI.props
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\obj\Debug\net7.0\scopedcss\bundle\LabAPI.styles.css
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.csproj.CopyComplete
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\obj\Debug\net7.0\refint\LabAPI.dll
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.pdb
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.genruntimeconfig.cache
-C:\Users\Usuario\Git SENA\LabAPI\CompanyEmployees\obj\Debug\net7.0\ref\LabAPI.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\nlog.config
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\appsettings.json
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\LabAPI.exe
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\LabAPI.deps.json
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\LabAPI.runtimeconfig.json
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\LabAPI.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\LabAPI.pdb
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Humanizer.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\NLog.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\NLog.Extensions.Logging.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\CompanyEmployees.Presentation.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Contracts.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Entities.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\LoggerService.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Repository.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Service.Contracts.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Service.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Shared.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\CompanyEmployees.Presentation.pdb
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\LoggerService.pdb
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Repository.pdb
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Service.Contracts.pdb
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Service.pdb
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Contracts.pdb
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Entities.pdb
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Shared.pdb
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.csproj.AssemblyReference.cache
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.AssemblyInfo.cs
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\staticwebassets\msbuild.LabAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\staticwebassets\msbuild.build.LabAPI.props
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LabAPI.props
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LabAPI.props
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\scopedcss\bundle\LabAPI.styles.css
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.csproj.CopyComplete
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\refint\LabAPI.dll
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.pdb
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.genruntimeconfig.cache
+C:\Users\EQUIPO\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\ref\LabAPI.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\nlog.config
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\appsettings.json
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\LabAPI.exe
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\LabAPI.deps.json
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\LabAPI.runtimeconfig.json
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\LabAPI.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\LabAPI.pdb
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\NLog.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\NLog.Extensions.Logging.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\CompanyEmployees.Presentation.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Contracts.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Entities.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\LoggerService.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Repository.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Service.Contracts.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Service.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Shared.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\CompanyEmployees.Presentation.pdb
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\LoggerService.pdb
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Repository.pdb
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Service.Contracts.pdb
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Service.pdb
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Contracts.pdb
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Entities.pdb
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\bin\Debug\net7.0\Shared.pdb
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\staticwebassets\msbuild.LabAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\staticwebassets\msbuild.build.LabAPI.props
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LabAPI.props
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LabAPI.props
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\scopedcss\bundle\LabAPI.styles.css
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.csproj.CopyComplete
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\refint\LabAPI.dll
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.pdb
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\LabAPI.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\LabAPI\LabAPI\CompanyEmployees\obj\Debug\net7.0\ref\LabAPI.dll

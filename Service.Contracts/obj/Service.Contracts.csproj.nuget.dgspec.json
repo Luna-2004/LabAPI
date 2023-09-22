@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Git SENA\\LabAPI\\Service.Contracts\\Service.Contracts.csproj": {}
+    "C:\\Users\\Usuario\\Downloads\\LabAPI\\LabAPI\\Service.Contracts\\Service.Contracts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Git SENA\\LabAPI\\Entities\\Entities.csproj": {
+    "C:\\Users\\Usuario\\Downloads\\LabAPI\\LabAPI\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Git SENA\\LabAPI\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Downloads\\LabAPI\\LabAPI\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Usuario\\Git SENA\\LabAPI\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Downloads\\LabAPI\\LabAPI\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Git SENA\\LabAPI\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Downloads\\LabAPI\\LabAPI\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,12 +43,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[7.0.9, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -69,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\Usuario\\Git SENA\\LabAPI\\Service.Contracts\\Service.Contracts.csproj": {
+    "C:\\Users\\Usuario\\Downloads\\LabAPI\\LabAPI\\Service.Contracts\\Service.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Git SENA\\LabAPI\\Service.Contracts\\Service.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Downloads\\LabAPI\\LabAPI\\Service.Contracts\\Service.Contracts.csproj",
         "projectName": "Service.Contracts",
-        "projectPath": "C:\\Users\\Usuario\\Git SENA\\LabAPI\\Service.Contracts\\Service.Contracts.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Downloads\\LabAPI\\LabAPI\\Service.Contracts\\Service.Contracts.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Git SENA\\LabAPI\\Service.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Downloads\\LabAPI\\LabAPI\\Service.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,11 +91,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Usuario\\Git SENA\\LabAPI\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Git SENA\\LabAPI\\Entities\\Entities.csproj"
+              "C:\\Users\\Usuario\\Downloads\\LabAPI\\LabAPI\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Downloads\\LabAPI\\LabAPI\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\Usuario\\Git SENA\\LabAPI\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Git SENA\\LabAPI\\Shared\\Shared.csproj"
+              "C:\\Users\\Usuario\\Downloads\\LabAPI\\LabAPI\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Downloads\\LabAPI\\LabAPI\\Shared\\Shared.csproj"
               }
             }
           }
@@ -115,12 +109,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[7.0.9, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -141,14 +129,14 @@
         }
       }
     },
-    "C:\\Users\\Usuario\\Git SENA\\LabAPI\\Shared\\Shared.csproj": {
+    "C:\\Users\\Usuario\\Downloads\\LabAPI\\LabAPI\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Git SENA\\LabAPI\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Downloads\\LabAPI\\LabAPI\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\Usuario\\Git SENA\\LabAPI\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Downloads\\LabAPI\\LabAPI\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Git SENA\\LabAPI\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Downloads\\LabAPI\\LabAPI\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -180,12 +168,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[7.0.9, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
